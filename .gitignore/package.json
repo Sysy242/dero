@@ -1,0 +1,22 @@
+{
+  "name": "deroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "deroku": "^1.0.6",
+    "deroku-addons": "^0.1.6",
+    "figlet": "^1.2.4",
+    "jimp": "^0.8.4",
+    "selfbot.js": "^11.5.1",
+    "typescript": "^3.6.3",
+    "vm2": "^3.8.4",
+    "ws": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
